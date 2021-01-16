@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/postsFragment"
+        android:title="Posts"/>
+
+    <item
+        android:id="@+id/galleryFragment"
+        android:title="Gallery"/>
+
+    <item
+        android:id="@+id/usersFragment"
+        android:title="Users"/>
+
+    <item
+        android:id="@+id/exitFragment"
+        android:title="Exit" />
+
+</menu>
